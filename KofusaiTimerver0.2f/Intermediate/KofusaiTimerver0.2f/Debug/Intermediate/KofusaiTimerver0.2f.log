@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Shu Takahashi\source\repos\KofusaiTimerver0.2f\KofusaiTimerver0.2f\GetIPAddress.h(12,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  KofusaiTimerver0.2f.vcxproj -> C:\Users\Shu Takahashi\source\repos\KofusaiTimerver0.2f\Intermediate\KofusaiTimerver0.2f\Debug\KofusaiTimerver0.2f(debug).exe
+  C:\Users\Shu Takahashi\source\repos\KofusaiTimerver0.2f\Intermediate\KofusaiTimerver0.2f\Debug\KofusaiTimerver0.2f(debug).exe
+  1 個のファイルをコピーしました
