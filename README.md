@@ -4,6 +4,7 @@ This is Timer and Server Program for 2020 Online Kofusai in Waseda High School.
 - This Program use TCP Networking by Port 51126 to [Client Program](https://github.com/tksnn/KofusaiLauncher2020).
 ## Library
 - C++17 ver.VS2020<br>
+- Win32 API
 - [OpenSiv3D ver.0.4.3](https://github.com/Siv3D/OpenSiv3D)<br>
 - [HTTPClient with curl on OpenSiv3D](https://github.com/Siv3D/OpenSiv3D/issues/482)<br>
 ## Author
